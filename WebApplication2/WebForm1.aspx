@@ -13,6 +13,7 @@
         webden
         konsoldan
         konsoldan 2222
+        konsoldan çekme
     </div>
     </form>
 </body>
