@@ -11,7 +11,8 @@ namespace WebApplication2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            int a=2;
+            a*=2;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
