@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication2.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="WebApplication2._default" %>
 
 <!DOCTYPE html>
 
@@ -9,13 +9,6 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    hey
-        webden
-        konsoldan
-        konsoldan 2222
-        konsoldan çekme
-        yeni veri
-
         <asp:Button ID="Button1" runat="server" Text="Git" OnClick="Button1_Click" />
     </div>
     </form>

@@ -10,7 +10,7 @@
 namespace WebApplication2 {
     
     
-    public partial class WebForm1 {
+    public partial class _default {
         
         /// <summary>
         /// form1 control.
