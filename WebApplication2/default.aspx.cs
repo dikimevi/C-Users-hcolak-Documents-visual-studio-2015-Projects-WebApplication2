@@ -13,6 +13,7 @@ namespace WebApplication2
         {
             int a=2;
             a*=2;
+            int k = a * k;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
